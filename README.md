@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Miguel Hughes React.js Showcase
 
-You can use the [editor on GitHub](https://github.com/miguelhughes/react-showcase/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I've built a series of simplified versions of popular apps: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- a shopping cart app
+- a (slack clone)[https://miguelhughes.github.io/slack-clone/] ((view readme)[https://github.com/miguelhughes/slack-clone/tree/master])
+- a (Reddit clone)[https://miguelhughes.github.io/reddit-clone/] ((view readme)[https://github.com/miguelhughes/reddit-clone/tree/master])
+- a pinterest clone
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miguelhughes/react-showcase/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please have a look at the readme files for info on what is and isn't implemented and what's the focus of each project. I please note that these **aren't fully functional apps** (except for tic-tac-toe) but more excercises on different areas or react and/or CSS
